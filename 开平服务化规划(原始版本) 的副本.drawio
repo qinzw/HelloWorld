@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T03:23:50.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hrSRzvaW8S39Kuq8r633" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-16T07:15:50.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ePF8U6iyd9zVEr6af3EP" version="20.5.1" type="github" pages="3">
   <diagram id="LHeB4NjMnUi0cGWfg-VW" name="第 1 页">
-    <mxGraphModel dx="1824" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,32 +301,32 @@
         <mxCell id="aJzPHlp5MDxAh6HLsRcm-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;阅读进度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="576" y="755" width="74" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="urlEHCIApxvy9QySj8jp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="urlEHCIApxvy9QySj8jp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="840" width="560" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="urlEHCIApxvy9QySj8jp-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;业务服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="urlEHCIApxvy9QySj8jp-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;业务服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="860" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="urlEHCIApxvy9QySj8jp-4" value="充值档位服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="urlEHCIApxvy9QySj8jp-4" value="充值档位服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="134.25" y="860" width="112" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="urlEHCIApxvy9QySj8jp-6" value="包年服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="urlEHCIApxvy9QySj8jp-6" value="包年服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="481" y="860" width="112" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="urlEHCIApxvy9QySj8jp-7" value="价格服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="urlEHCIApxvy9QySj8jp-7" value="价格服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="261" y="860" width="92" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="urlEHCIApxvy9QySj8jp-8" value="CMS 服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="urlEHCIApxvy9QySj8jp-8" value="CMS 服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="373.5" y="860" width="92" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="urlEHCIApxvy9QySj8jp-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;通用平台业务服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="urlEHCIApxvy9QySj8jp-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;通用平台业务服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="670" y="840" width="401" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="qiYkU8uw-nNdQtB3VIew">
-    <mxGraphModel dx="2214" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="c6bKQEAfyQHRHTY0jHHv-0" />
         <mxCell id="c6bKQEAfyQHRHTY0jHHv-1" parent="c6bKQEAfyQHRHTY0jHHv-0" />
@@ -525,7 +525,7 @@
         <mxCell id="0jycYlJXcyQYSVbl3O99-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;新业务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFCC;" parent="c6bKQEAfyQHRHTY0jHHv-1" vertex="1">
           <mxGeometry x="977.63" y="57.5" width="174.75" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="0jycYlJXcyQYSVbl3O99-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;SaaS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="c6bKQEAfyQHRHTY0jHHv-1" vertex="1">
+        <mxCell id="0jycYlJXcyQYSVbl3O99-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;类SaaS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="c6bKQEAfyQHRHTY0jHHv-1" vertex="1">
           <mxGeometry x="1190" y="190" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1UREIGQ0posssgE1XUAl-0" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;任务服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="c6bKQEAfyQHRHTY0jHHv-1" vertex="1">
