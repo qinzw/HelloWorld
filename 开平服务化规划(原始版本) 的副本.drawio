@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T09:58:36.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5yoVr7VRb6YBROQf1yX-" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:49:13.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="H4BWZ3QlBOsD8ksxcY-f" version="20.5.3" type="github" pages="4">
   <diagram id="LHeB4NjMnUi0cGWfg-VW" name="原架构">
     <mxGraphModel dx="1550" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1157,25 +1157,25 @@
         <mxCell id="Z2ugobhWGVB1TEea-aLq-4" value="&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;每周二技术评审+排期，为研发进度及技术架构合理性负责&lt;br&gt;&lt;br&gt;与会人员：&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;秦志伟、谢新仲、段亦逍、徐雷&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="760.25" y="310" width="716.7" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ugobhWGVB1TEea-aLq-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:XXX&lt;br&gt;backup:唐靖凯&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
+        <mxCell id="Z2ugobhWGVB1TEea-aLq-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:孔家铭&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;backup:唐靖凯&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="360.49999999999994" y="704.5" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ugobhWGVB1TEea-aLq-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:XXX&lt;br&gt;backup:XXX&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
+        <mxCell id="Z2ugobhWGVB1TEea-aLq-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:唐俊凯&lt;br&gt;backup:张鸿洋&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="645.6199999999999" y="848.25" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ugobhWGVB1TEea-aLq-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;唐靖凯&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;backup:张鸿洋&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
+        <mxCell id="Z2ugobhWGVB1TEea-aLq-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;侯丽杰&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;backup:谢新仲&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="359.90999999999997" y="890" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ugobhWGVB1TEea-aLq-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:XXX&lt;br&gt;backup:XXX&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
+        <mxCell id="Z2ugobhWGVB1TEea-aLq-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:孔家铭&lt;br&gt;backup:张鸿洋&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="915.3699999999999" y="772" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ugobhWGVB1TEea-aLq-12" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:XXX&lt;br&gt;backup:XXX&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
+        <mxCell id="Z2ugobhWGVB1TEea-aLq-12" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:张鸿洋&lt;br&gt;backup:孔家铭&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="915.3699999999999" y="909.5" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ugobhWGVB1TEea-aLq-13" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:XXX&lt;br&gt;backup:唐靖凯&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
+        <mxCell id="Z2ugobhWGVB1TEea-aLq-13" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:段亦逍&lt;br&gt;backup:唐靖凯&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="860.2499999999999" y="1060" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ugobhWGVB1TEea-aLq-14" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner:XXX&lt;br&gt;backup:XX&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
+        <mxCell id="Z2ugobhWGVB1TEea-aLq-14" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;owner和backup随服务域负责&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
           <mxGeometry x="1152.58" y="877" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z2ugobhWGVB1TEea-aLq-15" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;横向业务&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="CByYY-2fTsQM7U5928xj-1">
